@@ -1,0 +1,1 @@
+Add your own product and project photos in this folder. Suggested filenames: hero-bricks.jpg, facing-bricks.jpg, engineering-bricks.jpg, handmade-bricks.jpg, imported-bricks.jpg. The homepage already looks presentable without them; hero-bricks.jpg will automatically appear when added.
